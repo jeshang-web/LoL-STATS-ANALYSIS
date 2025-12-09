@@ -1,4 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: League of Legends Objectives Impact
+title: League of Legends Support Pick Impact
+description: UCSD DSC80 Data Analysis Project on League of Legends Professional Esports Games (2022)
 plugins:
 - jekyll-remote-theme
