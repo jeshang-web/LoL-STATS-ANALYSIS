@@ -14,9 +14,9 @@ The support role in this 5v5 team game is tasked with enabling the team's carrie
 
 The support meta in League of Legends shifts constantly, but professional teams often stick with a more stable, engage-oriented pool. 
 Even in seasons where enchanters are considered strong (2022), pros frequently default to tank supports for several well-known reasons: 
-1. players develop long-term mastery on champions that they've played extra frequently like Nautilus or Rakan
-2. tank supports can ward and control vision safely thanks to mobility or durability 
-3. drafting an engage support often frees the rest of the team to run damage-focused or carry-heavy compositions
+1. Players develop long-term mastery on champions that they've played extra frequently like Nautilus or Rakan.
+2. Tank supports can ward and control vision safely thanks to mobility or durability.
+3. Drafting an engage support often frees the rest of the team to run damage-focused or carry-heavy compositions.
 Despite this, enchanters often show higher win rates on paper, raising the question of whether the comfort-driven 
 engage meta is actually optimal.
 
