@@ -27,6 +27,7 @@ The central question of this project is:
 This study explores into the concept: if engage supports are so favored in pro play, why do they appear to win less often than enchanters? Understanding this balance may give insight into drafting decisions, team strategy, and the potential of a wide variety of "support" that is available to pick from in a competitive setting.
 
 Columns from the dataset that we will focus on for this analysis include:
+
 | Column        | Description                                                       |
 | -----------   | -----------                                                       |
 | `gameid`      | A unique game identifier                                          |
@@ -57,6 +58,7 @@ All support champs in the final dataset listed below:
 - **ENCHANTER:** 'Janna', 'Karma', 'Lulu', 'Nami', 'RenataGlasc', 'Seraphine',  'Sona', 'Soraka', 'Yuumi'
 
 The first five rows of the cleaned dataset are shown below:
+
 | gameid                | league   | champion | result | gamelength | visionscore | kills | deaths | assists | assistsat20 |
 |:----------------------|:---------|:---------|--------|------------|-------------|-------|--------|---------|-------------|
 | ESPORTSTMNT01_2690210 | LCKC     | Leona    |   0    |       1713 |        69.0 |     1 |      5 |       6 |         2.0 |
