@@ -105,12 +105,14 @@ Enchanters typically have low kills and an average number of assists (comparativ
 
 ### Interesting Aggregates
 We uncovered some mean statistics for each support type, with result representing winrate:
+
 | Support Type | Kills    | Deaths   | Assists  | Vision Score | Result   |
 |--------------|----------|----------|----------|--------------|----------|
 | Engage       | 0.792907 | 3.619333 | 9.097860 | 83.245791    | 0.502619 |
 | Enchanter    | 0.854053 | 2.534136 | 9.671431 | 73.878292    | 0.472635 |
 
 Here are the mean assists and kills by champion: 
+
 | Champion    | Type      | Avg Assists | Avg Kills |
 |-------------|-----------|-------------|-----------|
 | Pyke        | Engage    | 5.582456    | 3.350877  |
